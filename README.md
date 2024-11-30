@@ -37,6 +37,9 @@ To test the project:
    - Train and evaluate the ANN model.
 3. View the results, including accuracy and a confusion matrix.
 
+## Deployment
+This project is designed to run locally in Jupyter Notebook. No live deployment is necessary.
+
 ## Author
 [Freemandate](https://github.com/freemandate)
 
@@ -44,4 +47,13 @@ To test the project:
 - DATA 1200 Course
 - TensorFlow Documentation
 - Pandas and NumPy Libraries
+
+## Built With
+- [TensorFlow](https://www.tensorflow.org/) - Neural Network Framework
+- [Pandas](https://pandas.pydata.org/) - Data Manipulation
+- [NumPy](https://numpy.org/) - Numerical Computing
+- [Scikit-learn](https://scikit-learn.org/) - Preprocessing and Evaluation
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
