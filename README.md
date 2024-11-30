@@ -55,5 +55,6 @@ This project is designed to run locally in Jupyter Notebook. No live deployment 
 - [Scikit-learn](https://scikit-learn.org/) - Preprocessing and Evaluation
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
