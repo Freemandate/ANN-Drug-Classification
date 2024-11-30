@@ -43,18 +43,10 @@ This project is designed to run locally in Jupyter Notebook. No live deployment 
 ## Author
 [Freemandate](https://github.com/freemandate)
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Acknowledgments
 - DATA 1200 Course
 - TensorFlow Documentation
 - Pandas and NumPy Libraries
-
-## Built With
-- [TensorFlow](https://www.tensorflow.org/) - Neural Network Framework
-- [Pandas](https://pandas.pydata.org/) - Data Manipulation
-- [NumPy](https://numpy.org/) - Numerical Computing
-- [Scikit-learn](https://scikit-learn.org/) - Preprocessing and Evaluation
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
